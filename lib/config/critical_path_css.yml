@@ -8,6 +8,7 @@ defaults: &defaults
   #   - /path/to/css/from/public/main.css
   routes:
     - /
+  host: app
 
 development:
   <<: *defaults
