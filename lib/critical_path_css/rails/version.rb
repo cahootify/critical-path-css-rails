@@ -1,5 +1,5 @@
 module CriticalPathCSS
   module Rails
-    VERSION = '4.0.8'.freeze
+    VERSION = '4.0.9'.freeze
   end
 end
